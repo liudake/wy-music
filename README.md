@@ -23,9 +23,11 @@ vuex状态管理 核心文件则是在[Store](https://github.com/liudake/qiqi-mu
 #### 运行截图：
 <div align="space-between">
     <img src="https://github.com/liudake/wy-music/blob/master/src/assets/index.gif" width="375" height="667">
-    <img src="https://github.com/liudake/wy-music/blob/master/src/assets/singer.gif" align="right" width="375" height="667">
-    <img src="https://github.com/liudake/wy-music/blob/master/src/assets/search.gif" align="right" width="375" height="667">
+    <img src="https://github.com/liudake/wy-music/blob/master/src/assets/singer.gif" width="375" height="667">
+    <img src="https://github.com/liudake/wy-music/blob/master/src/assets/search.gif" width="375" height="667">
+    <img src="https://github.com/liudake/wy-music/blob/master/src/assets/search-dtai.gif" width="375" height="667">
 </div>
+<br>
 
 ## 项目组件
 - [x] 首页 -- 完成
